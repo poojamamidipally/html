@@ -1,0 +1,5 @@
+internt and basics 
+IS----->list of all
+mkdir--->create a directory
+rmdir-->remobes the directory
+code editor:visual studio codeextensions(live server,pretter)
